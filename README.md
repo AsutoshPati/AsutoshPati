@@ -9,6 +9,6 @@
 ## :smiling_imp: 2+3 = 7; What it's 1; Nope It's 6; Nope It's 4; Yes.. It's 5.. And I love deep learning
 <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif" alt="It's Deep Learning" width="150">
 
-## 👯 I will love to collaborate
+## 👯 I love to collaborate
 
 ## :octopus: A Multi Tasker
